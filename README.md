@@ -1,21 +1,5 @@
 # Project Portfolio
 
-
-<a href="https://www.linkedin.com/in/tom-schmidt-6aaba8222/">LinkedIn </a>
-<a href="Resume - Tom Schmidt.pdf">Resume </a>
-<a href="#aboutme">About Me </a>
-
-
-    <header>
-        <nav>
-            <ul>
-                <li><a href="https://www.linkedin.com/in/tom-schmidt-6aaba8222/">LinkedIn</a></li>
-                <li><a href="Resume - Tom Schmidt.pdf">Resume</a></li>
-                <li><a href="#aboutme">About Me</a></li>
-            </ul>
-        </nav>
-    </header>
-
 ### Education
 
 B. Sc. Business Informatics (AKAD University, Stuttgart, Germany), 2023 
