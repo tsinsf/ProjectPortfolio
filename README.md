@@ -7,6 +7,8 @@ B. Sc. Business Informatics (AKAD University, Stuttgart, Germany), 2023
 <br>
 M. Sc. Business Analytics (HULT International Business School, San Francisco, USA), 2024
 
+<br>
+<br>
 
 ### Project Overview
 
