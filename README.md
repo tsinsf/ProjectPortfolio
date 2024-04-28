@@ -45,7 +45,6 @@ This analysis will first explore and prepare the data provided before creating n
 
 <p> This project provides a comprehensive analysis of social media engagement in Thailand, focusing on how different content types—photos, videos, and texts—resonate with users. Utilizing data-driven techniques like Principal Component Analysis (PCA) and k-means clustering, the study measures user interactions and defines engagement levels and emotional responses. The findings indicate that photos generate the most 'Likes' due to their visual appeal, while videos attract 'Love' and 'Wow' reactions, reflecting their ability to capture interest. Text posts, though less emotionally engaging, effectively serve their niche. Additionally, classification modeling helped identify characteristics of content that drive user engagement and emotional reactions, enhancing predictive accuracy to optimize targeting and resource allocation. This analysis not only assists businesses in tailoring content to audience preferences in Thailand but also offers a strategic roadmap applicable to wider markets. </p>
 <a href="https://github.com/tsinsf/ClassificationModeling"> Repository: Classification Modeling </a>
-
 <br>
 <br>
 <br>
@@ -54,7 +53,6 @@ This analysis will first explore and prepare the data provided before creating n
 
 <p>  This project examines changes in life expectancy and fertility rates across different regions from 1960 to 2020, using data analysis in R with libraries like tidyverse and ggplot2. By merging historical and contemporary datasets, the project creates comprehensive visualizations to explore demographic shifts over sixty years. Scatter plots and histograms highlight the relationships and trends between life expectancy and fertility rates within various regions, revealing significant global improvements in health and reductions in fertility. Analytical insights include identifying regions with the most drastic changes, the impact of socioeconomic factors on these trends, and detailed outlier analysis, providing a thorough understanding of global demographic evolution. </p>
 <a href="https://github.com/tsinsf/DataAnalystAtWorldBank"> Repository: Classification Modeling </a>
-
 <br>
 <br>
 <br>
