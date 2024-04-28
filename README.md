@@ -1,4 +1,4 @@
-# ProjectPortfolio
+# Project Portfolio
 
 ### Education
 Business Informatics, B. Sc. (AKAD University, Stuttgart, Germany)
