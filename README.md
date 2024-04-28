@@ -12,10 +12,10 @@ Business Analytics, M. Sc. (HULT International Business School, San Francisco, U
 1. Text Adventure Game (Python)
 2. Regression Modeling (Python)
 3. Classification Modeling (Python)
-
+<br>
 
 <h4> Text Adventure Game (Python) </h4>
-<br>
+
 <p> Welcome to the Python Text Adventure Game - Surviving in Jurassic Park <br>
 The game is based on the movie Jurassic Park (Spielberg, S. (1993). Jurassic Park. Universal Pictures.) and its
 story is slightly changed for the purpose of this game. The background story for the game is the following:
