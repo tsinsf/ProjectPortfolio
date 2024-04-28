@@ -2,8 +2,9 @@
 
 ### Education
 
-Business Informatics, B. Sc. (AKAD University, Stuttgart, Germany) <br>
-Business Analytics, M. Sc. (HULT International Business School, San Francisco, USA)
+Business Informatics, B. Sc. (AKAD University, Stuttgart, Germany), 2023 
+<br>
+Business Analytics, M. Sc. (HULT International Business School, San Francisco, USA), 2024
 
 
 ### Projects
