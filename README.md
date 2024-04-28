@@ -1,5 +1,11 @@
 # Project Portfolio
 
+
+<a href="https://www.linkedin.com/in/tom-schmidt-6aaba8222/">LinkedIn </a>
+<a href="Resume - Tom Schmidt.pdf">Resume </a>
+<a href="#aboutme">About Me </a>
+
+
     <header>
         <nav>
             <ul>
